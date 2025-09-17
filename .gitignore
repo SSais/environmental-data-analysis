@@ -1,0 +1,40 @@
+# General
+.DS_Store
+.env
+.idea/
+.vscode/
+
+# Build artifacts
+/dist/
+/build/
+/out/
+/target/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+/env/
+.env/
+
+# macOS
+.DS_Store
+.Spotlight-V100
+.Trashes
+__MACOSX
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE-specific files (e.g., Visual Studio, JetBrains)
+*.sln
+*.suo
+*.user
+*.pdb
+*.pidb
+
+# My data files
+/data
